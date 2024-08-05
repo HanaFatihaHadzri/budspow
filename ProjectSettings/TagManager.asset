@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Luggage
+  - Power
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - InteractableItem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1191514455
+    locked: 0
+  - name: Foreground
+    uniqueID: 3129387403
+    locked: 0
+  - name: Luggage
+    uniqueID: 2883936431
+    locked: 0
+  - name: Button
+    uniqueID: 165038201
+    locked: 0
+  - name: UIpanel
+    uniqueID: 3272785755
+    locked: 0
